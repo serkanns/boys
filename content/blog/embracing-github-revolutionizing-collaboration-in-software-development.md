@@ -1,7 +1,7 @@
 ---
 ID: "ec205f5aa4d3"
 createdAt: "2024-01-22T10:57:17.000Z"
-updatedAt: "2024-02-16T10:38:59.021Z"
+updatedAt: "2024-02-16T11:01:53.498Z"
 status: "publish"
 slug: "embracing-github-revolutionizing-collaboration-in-software-development"
 title: "Embracing GitHub: Revolutionizing Collaboration in Software Development"
