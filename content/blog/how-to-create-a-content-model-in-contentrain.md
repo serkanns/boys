@@ -1,8 +1,8 @@
 ---
 ID: "9a60da4032a8"
 createdAt: "2024-01-22T10:21:12.000Z"
-updatedAt: "2024-02-16T11:01:55.557Z"
-status: "draft"
+updatedAt: "2024-02-16T12:18:23.920Z"
+status: "publish"
 slug: "how-to-create-a-content-model-in-contentrain"
 title: "How to create a content model in Contentrain?"
 description: "Contentrain offers a flexible and intuitive platform for content management, and a fundamental aspect of utilizing its capabilities fully is understanding how to create a content model. This guide will walk you through the process of creating a content model in Contentrain, from initiating a project to adding fields to your model."
