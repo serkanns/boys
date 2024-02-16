@@ -1,8 +1,8 @@
 ---
 ID: "84b8f80da03b"
 createdAt: "2024-01-22T11:03:30.000Z"
-updatedAt: "2024-02-16T10:41:29.949Z"
-status: "draft"
+updatedAt: "2024-02-16T11:01:11.587Z"
+status: "publish"
 slug: "contentrains-brand-new-look-is-almost-here"
 title: "The Exciting Reveal: Contentrain's Brand New Look is Almost Here!"
 description: "We're buzzing with excitement and can't wait to share some thrilling news with all of you – the wait is nearly over! 🎉 Get ready to witness a fresh and revitalized Contentrain."
