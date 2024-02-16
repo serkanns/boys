@@ -1,8 +1,8 @@
 ---
 ID: "ec205f5aa4d3"
 createdAt: "2024-01-22T10:57:17.000Z"
-updatedAt: "2024-02-16T11:01:53.498Z"
-status: "publish"
+updatedAt: "2024-02-16T11:01:55.581Z"
+status: "draft"
 slug: "embracing-github-revolutionizing-collaboration-in-software-development"
 title: "Embracing GitHub: Revolutionizing Collaboration in Software Development"
 description: "In the dynamic world of software development, GitHub stands as a beacon of collaboration, innovation, and version control. It's not just a platform; it's a community hub where developers from around the globe converge to create, share, and improve code."
