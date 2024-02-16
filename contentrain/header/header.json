@@ -1,5 +1,18 @@
 [
   {
+    "ID": "b5085f7a27cd",
+    "createdAt": "Fri Feb 16 2024 15:26:43 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Feb 16 2024 15:26:43 GMT+0300 (GMT+03:00)",
+    "logosrc": "public/images/1705749272060_banner-bg.svg",
+    "logoalt": "qe",
+    "leftbuttonlabel": "qwe",
+    "leftbuttonlink": "qwe",
+    "rightbuttonlabel": "wqe",
+    "rightbuttonlink": "qwe",
+    "status": "publish",
+    "scheduled": false
+  },
+  {
     "ID": "fdf1dd91a0b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
     "updatedAt": "2024-02-16T12:10:28.598Z",
