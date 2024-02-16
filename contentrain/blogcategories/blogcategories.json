@@ -3,40 +3,40 @@
     "ID": "fdf1dd91a0b9",
     "name": "Product",
     "slug": "product",
-    "status": "publish",
+    "status": "draft",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-16T12:15:37.869Z"
+    "updatedAt": "2024-02-16T12:15:39.757Z"
   },
   {
     "ID": "fdf1dd91a0c0",
     "name": "Ecosystem",
     "slug": "ecosystem",
-    "status": "publish",
+    "status": "draft",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-16T12:15:37.880Z"
+    "updatedAt": "2024-02-16T12:15:39.772Z"
   },
   {
     "ID": "fdf1dd91a0c1",
     "name": "How to guides",
     "slug": "how-to-guides",
-    "status": "publish",
+    "status": "draft",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-16T12:15:37.893Z"
+    "updatedAt": "2024-02-16T12:15:39.790Z"
   },
   {
     "ID": "fdf1dd91a0c2",
     "name": "Events",
     "slug": "events",
-    "status": "publish",
+    "status": "draft",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-16T12:15:37.913Z"
+    "updatedAt": "2024-02-16T12:15:39.803Z"
   },
   {
     "ID": "fdf1dd91a0c3",
     "name": "Company",
     "slug": "company",
-    "status": "publish",
+    "status": "draft",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-02-16T12:15:37.933Z"
+    "updatedAt": "2024-02-16T12:15:39.814Z"
   }
 ]
