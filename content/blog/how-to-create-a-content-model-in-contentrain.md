@@ -1,7 +1,7 @@
 ---
 ID: "9a60da4032a8"
 createdAt: "2024-01-22T10:21:12.000Z"
-updatedAt: "2024-02-16T10:38:58.995Z"
+updatedAt: "2024-02-16T11:01:53.476Z"
 status: "publish"
 slug: "how-to-create-a-content-model-in-contentrain"
 title: "How to create a content model in Contentrain?"
