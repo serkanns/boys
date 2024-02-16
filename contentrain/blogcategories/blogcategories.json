@@ -5,7 +5,7 @@
     "slug": "product",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
+    "updatedAt": "2024-02-16T12:15:37.869Z"
   },
   {
     "ID": "fdf1dd91a0c0",
@@ -13,7 +13,7 @@
     "slug": "ecosystem",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
+    "updatedAt": "2024-02-16T12:15:37.880Z"
   },
   {
     "ID": "fdf1dd91a0c1",
@@ -21,7 +21,7 @@
     "slug": "how-to-guides",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
+    "updatedAt": "2024-02-16T12:15:37.893Z"
   },
   {
     "ID": "fdf1dd91a0c2",
@@ -29,7 +29,7 @@
     "slug": "events",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
+    "updatedAt": "2024-02-16T12:15:37.913Z"
   },
   {
     "ID": "fdf1dd91a0c3",
@@ -37,6 +37,6 @@
     "slug": "company",
     "status": "publish",
     "createdAt": "2024-01-22T11:03:30.000Z",
-    "updatedAt": "2024-01-20T10:06:41.523Z"
+    "updatedAt": "2024-02-16T12:15:37.933Z"
   }
 ]
