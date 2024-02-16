@@ -1,7 +1,7 @@
 ---
 ID: "ce733d7ea4af"
 createdAt: "Mon Jan 22 2024 12:02:53 GMT+0300 (GMT+03:00)"
-updatedAt: "2024-02-16T10:38:59.009Z"
+updatedAt: "2024-02-16T11:01:53.487Z"
 slug: "saastanbul-event"
 title: "Saastanbul Evet"
 description: "SaaStanbul provided latest developments in the SaaS field and the opportunity to meet with inspiring speakers and prospects.🎙️ As a SaaS startup, we had participated various sessions.   Long story short, we’ve learned many different approaches that we can leverage for Contentrain to make it heard that it’s gonna be the best Headless CMS. 🤓"
